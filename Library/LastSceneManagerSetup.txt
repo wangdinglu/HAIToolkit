@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/HAIToolkit/Scenes/Seneors.unity
+  isLoaded: 1
+  isActive: 1
